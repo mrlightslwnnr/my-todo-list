@@ -22,7 +22,7 @@ AwesomeButton: An external library integrated into the app, offering visually ap
 Usage
 To use the My Todo List App locally, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/your-username/my-todo-list-app.git.
+Clone this repository to your local machine using git clone https://github.com/mrlightslwnnr/my-todo-list.git.
 Navigate to the project directory: cd my-todo-list-app.
 Install the dependencies by running npm install or yarn install.
 Start the development server with npm run dev or yarn dev.
